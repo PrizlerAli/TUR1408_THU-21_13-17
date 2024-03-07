@@ -1,0 +1,1 @@
+benim projem bir parkur oyunu olacak. 3 farklı oyun modu ve eğlenceli parkur mekanikleri olcak.
